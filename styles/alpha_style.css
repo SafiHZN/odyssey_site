@@ -28,7 +28,7 @@
   margin-top: 6%;
   border-radius: 10px;
   width: 65%;
-  height: 65%;
+  height: "min-content";
 }
 
 .info.side{

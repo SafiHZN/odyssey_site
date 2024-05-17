@@ -10,7 +10,7 @@
 #icon{
   margin-left: 80%;
   margin-top: 18%;
-  background-image: url('../assets/Odyssey.jpg');
+  background-image: url('../assets/Idea.png');
   width: 20%;
   height: 25%;
   background-size: cover;
@@ -28,7 +28,7 @@
   margin-top: 6%;
   border-radius: 10px;
   width: 65%;
-  height: "min-content";
+  height: 55%;
 }
 
 .info.side{
